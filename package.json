@@ -109,7 +109,7 @@
     "postcss-loader": "^3.0.0",
     "protobufjs": "~6.8.6",
     "ps-node": "^0.1.6",
-    "query-ast": "^1.0.1",
+    "query-ast": "^1.0.2",
     "recast": "^0.16.0",
     "request-promise-native": "^1.0.5",
     "resemblejs": "^3.0.0",
